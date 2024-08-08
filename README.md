@@ -11,6 +11,7 @@
     <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
     <li><a href="https://mongoosejs.com/">Mongoose</a></li>
     <li><a href="https://www.mongodb.com/">Mongo DB</a></li>
+     <li><a href="https://aws.amazon.com/?nc2=h_lg">AWS</a></li>
   </ul>
 
 ## :accessibility: How to run backend into your local system:
