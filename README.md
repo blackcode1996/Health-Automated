@@ -17,7 +17,7 @@
 
 - At first, do a git clone of this repository.
 ```
-git clone https://github.com/blackcode1996/purecode.git
+https://github.com/blackcode1996/Health_automated.git
 ```
 - After cloning, move to the client folder.
 ```
